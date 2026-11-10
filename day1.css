@@ -1,0 +1,25 @@
+button{
+    height:50px;
+    width:300px;
+    text-transform: uppercase;
+    background-color: blueviolet;
+    
+}
+*{
+    background-color: bisque;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+body{
+   
+    border: 2px solid;
+     border-color: aqua;
+}
+h1, p {
+    color:blue;
+}
+p{
+    line-height: 2.5;
+}
+.btn:hover{
+    background-color: chartreuse;
+}

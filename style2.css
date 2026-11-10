@@ -1,0 +1,28 @@
+h1 {
+    color: brown;
+}
+
+#d1 {
+    border: 3px solid black;
+
+}
+
+button {
+    background-color: blue;
+    height: 50px;
+    width: 100px;
+    border: 2px solid black;
+}
+
+#p1 {
+    color: blueviolet
+}
+
+.p2 {
+    color: green;
+}
+
+#d2 {
+    height: 50px;
+    border: 2px solid black;
+}
